@@ -9,8 +9,8 @@ This a fork of an old coworker now friend of mine who shared this with me. I've 
 
 Tl;dr:
 ```sh
-git clone https://github.com/bmd/dotfiles.git && \
-    cd dotfiles && \
+git clone git@github.com:el-dude/dudes-dotfiles.git && \
+    cd dudes-dotfiles && \
     make install
 ```
 
