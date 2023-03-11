@@ -1,0 +1,25 @@
+# A top-level .editorconfig file to set sane defaults
+# for common file types and languages.
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+indent_size = 4
+indent_style = space
+insert_final_newline = true
+tab_width = 4
+trim_trailing_whitespace = true
+
+[Makefile]
+indent_style = tab
+
+[*.{yaml,yml}]
+indent_size = 2
+
+[*.json]
+indent_size = 2
+
+[*.go]
+indent_style = tab
+
