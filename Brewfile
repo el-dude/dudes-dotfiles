@@ -31,6 +31,7 @@ cask "imagemagick"
 cask "insomnia"
 cask "iterm2"
 cask "postman"
+cask "rancher"
 cask "visual-studio-code"
 
 # Productivity
